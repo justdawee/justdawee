@@ -52,7 +52,7 @@ More about me in my <a href="https://cv.justdawee.com" target="_blank"><img heig
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 </p>
 <h3>Currently Listening</h3>
-[![Spotify](https://justdawee-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/11150897069?si=7462c8d40c31452f)
+![Spotify](https://justdawee-spotify.vercel.app/api/spotify)
 <h3>Activity Stats</h3>
 COMING SOON!
 <h3>Recent Activity</h3>
