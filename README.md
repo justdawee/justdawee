@@ -1,7 +1,8 @@
 <center><img width="100%" src="https://media0.giphy.com/media/fumqqbfnyiVdbeUWpv/giphy.gif"/></center>
-<h1>Welcome to my profile! 👋 </h1>
+<h1>Welcome to my profile! 👋</h1>
 
 <p>Hi! My name is <b>David</b>, I'm currently learning software development and testing in an evening-based adult education system. <br> I'm from <img src="https://cdn-icons-png.flaticon.com/512/197/197584.png" width="13px"/> <b>Budapest, Hungary</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197584.png" width="13px"/> <b>Dömsöd, Hungary</b>. <br> I hope you like my profile! :)</p>
+<img src="https://komarev.com/ghpvc/?username=justdawee&style=flat-square"/>
 <h3>About me</h3>
 <p>
 I always loved computers since I was a kid, I always wanted to know how programs and websites are working and now that I know all the behind stuff, I'm proud of all the developers who made all this happen for us. Coding is beautiful and you should respect it. <3 
@@ -16,6 +17,7 @@ More about me in my <a href="https://cv.justdawee.com" target="_blank">CV</a>, f
 </ul>
 <hr>
 </p>
+
 <h3>Softwares and Languages</h3>
 <p>
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" title="C#"/>
@@ -48,6 +50,7 @@ More about me in my <a href="https://cv.justdawee.com" target="_blank">CV</a>, f
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" title="Git"/>
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" title="GitHub"/>
 </p>
+
 <h3>Currently Listening</h3>
 <a href="https://open.spotify.com/user/11150897069?si=7462c8d40c31452f" target="_blank"><img src="https://justdawee-spotify.vercel.app/api/spotify/?background_color=0a0e12&border_color=30363d"/></a>
 
@@ -67,3 +70,4 @@ More about me in my <a href="https://cv.justdawee.com" target="_blank">CV</a>, f
   <td><img height="16px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/2560px-Flag_of_Japan.svg.png"/> imagine all the people living life in peace.</td>
   </tr>
 </table>
+<a href="https://hit.yhype.me/github/profile?user_id=17357366"/>
