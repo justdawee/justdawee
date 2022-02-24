@@ -55,7 +55,7 @@ More about me in my <a href="https://cv.justdawee.com" target="_blank">CV</a>, f
 <a href="https://open.spotify.com/user/11150897069?si=7462c8d40c31452f" target="_blank"><img src="https://justdawee-spotify.vercel.app/api/spotify/?background_color=0a0e12&border_color=30363d"/></a>
 
 <h3>Social</h3>
-<a href="www.linkedin.com/in/justdawee" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"/></a>
+<a href="https://linkedin.com/in/justdawee"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"/></a>
 <a href="https://justdawee.com" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" title="Website"/></a>
 <a href="https://instagram.com/justdawee" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" title="Instagram"/></a>
 <a href="https://dsc.gg/justdawee" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" title="Discord"/></a>
