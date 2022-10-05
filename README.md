@@ -7,11 +7,11 @@
 <p>
 I always loved computers since I was a kid, I always wanted to know how programs and websites are working and now that I know all the behind stuff, I'm proud of all the developers who made all this happen for us. Coding is beautiful and you should respect it. <3 
 <br><br>
-More about me in my <a href="https://cv.justdawee.com" target="_blank">CV</a>, feel free to watch! :)
+More about me in my <a href="https://cv.justdawee.hu" target="_blank">CV</a>, feel free to watch! :)
 <hr>
 <ul>
 <li>💼 I'm not working anywhere right now...
-<li>📙 Learning C#, Angular, PHP, MySQL right now...
+<li>📙 Learning C#, PL/SQL, Python right now...
 <li>✔️ Goals: To get a full-time developer job at sometime.
 <li>⚽ Hobbies: Video Games, Cars, Computers
 </ul>
