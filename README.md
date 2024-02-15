@@ -51,9 +51,6 @@ More about me in my <a href="https://cv.justdawee.hu" target="_blank">CV</a>, fe
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" title="GitHub"/>
 </p>
 
-<h3>Currently Listening</h3>
-<a href="https://open.spotify.com/user/11150897069?si=7462c8d40c31452f" target="_blank"><img src="https://justdawee-spotify.vercel.app/api/spotify/?background_color=0a0e12&border_color=30363d"/></a>
-
 <h3>Social</h3>
 <a href="https://linkedin.com/in/justdawee"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"/></a>
 <a href="https://justdawee.com" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" title="Website"/></a>
