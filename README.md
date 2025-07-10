@@ -12,7 +12,7 @@ More about me in my <a href="https://cv.justdawee.hu" target="_blank">CV</a>, fe
 <hr>
 <ul>
 <li>💼 I'm not working anywhere right now...
-<li>📙 Learning C# (.NET 8), Java, Python
+<li>📙 Learning C#/.NET, Typescript, Vue.js, Unity
 <li>✔️ Goals: To get a full-time developer job at sometime.
 <li>⚽ Hobbies: Video Games, Cars, Computers
 </ul>
