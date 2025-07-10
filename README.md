@@ -5,8 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=justdawee&style=flat-square"/>
 <h3>About me</h3>
 <p>
-🚀 Aspiring software developer diving deep into code and on the lookout for exciting opportunities! 🌐 When I'm not busy learning the latest tech, you can find me behind the wheel 🚗 or battling it out in my favorite video games 🎮. 
-Let's drive into the future of innovation together!
+🚀 Aspiring software developer diving deep into code and on the lookout for exciting opportunities! 
 <br><br>
 More about me in my <a href="https://cv.justdawee.hu" target="_blank">CV</a>, feel free to watch! :)
 <hr>
@@ -23,9 +22,13 @@ More about me in my <a href="https://cv.justdawee.hu" target="_blank">CV</a>, fe
 <p>
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" title="C#"/>
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" title=".NET"/>
+<img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" title="Vue.js"/>
+<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" title="Vite"/>
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" title="TailwindCSS"/>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" title="Python"/>
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL"/>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" title="MariaDB"/>
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" title="PostgreSQL"/>
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" title="Redis"/>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" title="Windows"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux"/>
