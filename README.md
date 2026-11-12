@@ -1,56 +1,97 @@
-<center><img width="100%" src="https://media0.giphy.com/media/fumqqbfnyiVdbeUWpv/giphy.gif"/></center>
-<h1>Welcome to my profile! 👋</h1>
+<div align="center">
 
-<p>Hi! My name is <b>David</b>, I'm currently an university student in Computer Science. <br> I'm from <img src="https://cdn-icons-png.flaticon.com/512/197/197584.png" width="13px"/> <b>Hungary</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197584.png" width="13px"/> <b>Budapest, Hungary</b>. <br> I hope you like my profile! :)</p>
-<img src="https://komarev.com/ghpvc/?username=justdawee&style=flat-square"/>
-<h3>About me</h3>
-<p>
-🚀 Aspiring software developer diving deep into code and on the lookout for exciting opportunities! 
-<br><br>
-More about me in my <a href="https://cv.justdawee.hu" target="_blank">CV</a>, feel free to watch! :)
-<hr>
-<ul>
-<li>💼 I'm not working anywhere right now...
-<li>📙 Learning C#/.NET, Typescript, Vue.js, Unity
-<li>✔️ Goals: To get a full-time developer job at sometime.
-<li>⚽ Hobbies: Video Games, Cars, Computers
-</ul>
-<hr>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:1a1b27,55:3b4a8f,100:70a5fd&text=D%C3%A1vid%20Luk%C3%A1cs&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Fullstack%20Developer%20%C2%B7%20AI%20Systems%20%C2%B7%20Game%20Dev&descSize=18&descAlignY=57&animation=fadeIn" alt="Dávid Lukács, Fullstack Developer · AI Systems · Game Dev"/>
 
-<h3>Softwares and Languages</h3>
-<p>
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" title="C#"/>
-<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" title=".NET"/>
-<img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" title="Vue.js"/>
-<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" title="Vite"/>
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" title="TailwindCSS"/>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" title="Python"/>
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL"/>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" title="MariaDB"/>
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" title="PostgreSQL"/>
-<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" title="Redis"/>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" title="Windows"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux"/>
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" title="Docker"/>
-<img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" title="Google Chrome"/>
-<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" title="Adobe Premiere Pro"/>
-<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" title="Adobe Photoshop"/>
-<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" title="Microsoft Office"/>
-<img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" title="Stackoverflow"/>
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" title="Git"/>
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" title="GitHub"/>
-</p>
+<a href="https://cv.justdawee.hu"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=70A5FD&center=true&vCenter=true&width=640&height=40&lines=C%23+%2F+.NET+%2B+Angular+at+work;RAG+%26+agentic+workflows+after+hours;Self-hosting+quantized+LLMs;Rewriting+a+2000s+game+engine+in+Rust" alt="What I do"/></a>
 
-<h3>Social</h3>
-<a href="https://linkedin.com/in/justdawee"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"/></a>
-<a href="https://justdawee.com" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" title="Website"/></a>
-<a href="https://instagram.com/justdawee" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" title="Instagram"/></a>
-<hr>
+<a href="https://cv.justdawee.hu"><img src="https://img.shields.io/badge/View_my_CV-70a5fd?style=for-the-badge&logo=readdotcv&logoColor=1a1b27" alt="CV"/></a>
+<a href="https://linkedin.com/in/justdawee"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=70a5fd" alt="LinkedIn"/></a>
+<a href="https://instagram.com/justdawee"><img src="https://img.shields.io/badge/Instagram-1a1b27?style=for-the-badge&logo=instagram&logoColor=70a5fd" alt="Instagram"/></a>
+<img src="https://komarev.com/ghpvc/?username=justdawee&style=for-the-badge&color=1a1b27&label=VISITS" alt="Profile views"/>
 
-<table align="center">
+</div>
+
+## 👋 About me
+
+I'm **Dávid**, a fullstack developer from **Budapest, Hungary** 🇭🇺.
+By day I build business software with **C# / .NET** and **Angular**; in my free time I tinker with AI systems, self-hosted models and game engines.
+
+- 💼 Working as a **Fullstack Developer**: backend, frontend and the pipelines that ship them
+- 🤖 Building **AI systems**: RAG, agentic workflows and AI ops
+- 🧠 Next up: going deeper into **machine learning** and **reinforcement learning**
+- 🎮 Hobbies: game development, reverse engineering, cars, computers
+
+📄 The full story is in my **[CV](https://cv.justdawee.hu)**
+
+## 🧭 What I do
+
+<table>
   <tr>
-  <td><img height="16px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/2560px-Flag_of_Japan.svg.png"/> imagine all the people living life in peace.</td>
+    <td width="50%" valign="top">
+      <h3>💻 Fullstack</h3>
+      Enterprise web apps end to end: REST APIs and services in <b>C# / .NET</b>, SPAs in <b>Angular</b> and <b>TypeScript</b>, relational data underneath.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 AI engineering</h3>
+      <b>RAG</b> pipelines, <b>agentic workflows</b> and AI ops. I self-host my own models, including <b>quantized LLMs</b> on local hardware.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚙️ DevOps</h3>
+      CI/CD on <b>Azure DevOps</b>, <b>GitLab</b> and <b>GitHub Actions</b>; deployments on <b>Azure</b>; everything containerised with <b>Docker</b>.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎮 Game dev &amp; reverse engineering</h3>
+      Hobby projects in <b>Unity</b> and <b>Unreal</b>, plus taking old games apart to see how they work and putting them back together in <b>Rust</b>.
+    </td>
   </tr>
 </table>
-<a href="https://hit.yhype.me/github/profile?user_id=17357366"/>
+
+## 🚀 Featured project: openIG2
+
+> My biggest side project: a game **rewritten in Rust**, built on **reverse engineering** the original.
+
+`Rust` · `Reverse engineering` · `Game dev`
+
+## 🛠️ Tech stack
+
+<table>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=cs,dotnet,rust,py&theme=dark" alt="C#, .NET, Rust, Python"/></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=angular,ts,vue,tailwind&theme=dark" alt="Angular, TypeScript, Vue, Tailwind CSS"/></td>
+  </tr>
+  <tr>
+    <td><b>Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" alt="PostgreSQL, MySQL, Redis"/></td>
+  </tr>
+  <tr>
+    <td><b>DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=azure,docker,gitlab,githubactions,git,linux&theme=dark" alt="Azure, Docker, GitLab, GitHub Actions, Git, Linux"/></td>
+  </tr>
+  <tr>
+    <td><b>AI / ML</b></td>
+    <td><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="PyTorch"/> &nbsp;<code>RAG</code> <code>Agents</code> <code>Local LLMs</code> <code>Quantization</code></td>
+  </tr>
+  <tr>
+    <td><b>Game dev</b></td>
+    <td><img src="https://skillicons.dev/icons?i=unity,unreal&theme=dark" alt="Unity, Unreal Engine"/></td>
+  </tr>
+</table>
+
+## 📊 GitHub activity
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=justdawee&theme=tokyonight" alt="Contribution history"/>
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=justdawee&theme=tokyonight" alt="GitHub stats"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=justdawee&theme=tokyonight" alt="Most used languages"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:1a1b27,55:3b4a8f,100:70a5fd&section=footer" alt=""/>
+
+</div>
